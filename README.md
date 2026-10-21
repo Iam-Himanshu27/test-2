@@ -1,2 +1,6 @@
 two files are created for learning purposes
-well done
+<<<<<<< HEAD
+
+=======
+well done it team
+>>>>>>> linux-troubleshooting
